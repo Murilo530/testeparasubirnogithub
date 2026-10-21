@@ -1,0 +1,4 @@
+repository "testeparasubirnogithub/testeparasubirnogithub@4674185475067@cloud"
+  path "/"
+    br "/main"
+    co "/main"
